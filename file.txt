@@ -1,1 +1,2 @@
 Alex has a cat.
+Acesta este fisierul A.
